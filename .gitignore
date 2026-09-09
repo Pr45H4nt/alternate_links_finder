@@ -1,0 +1,17 @@
+# secrets
+.env
+
+# pipeline output
+dead_links.json
+candidates.json
+final_replacements.json
+
+# your own input collections
+data.json
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
